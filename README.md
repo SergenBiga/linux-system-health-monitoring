@@ -1,6 +1,3 @@
-# linux-system-health-monitoring
-Linux System Health Monitoring &amp; Self-Healing (Bash, Prometheus, Grafana)
-
 # Linux System Health Monitoring & Self-Healing
 
 A lightweight, production-oriented Linux system monitoring and self-healing solution built with **Bash**, **systemd**, **cron**, **Prometheus**, and **Grafana**.
@@ -62,3 +59,4 @@ linux-system-health-monitoring/
 │   └── thresholds.conf
 └── logs/
     └── .gitkeep
+
